@@ -361,3 +361,8 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Local only files
+Other Side of the Cipher.sln
+Other Side of the Cipher/Other Side of the Cipher.vcxproj
+Other Side of the Cipher/Other Side of the Cipher.vcxproj.filters
